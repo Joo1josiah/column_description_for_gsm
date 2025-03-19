@@ -1,0 +1,5396 @@
+{
+    "GSM26805": {
+        "title": [
+            "C1PBL"
+        ],
+        "geo_accession": [
+            "GSM26805"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy blood donor",
+            "Age: unknown",
+            "Sex: unknown",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: NA",
+            "Scr (mg/dL): unknown",
+            "Days post transplant: NA",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26805/suppl/GSM26805.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26805/suppl/GSM26805.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26806": {
+        "title": [
+            "C2PBL"
+        ],
+        "geo_accession": [
+            "GSM26806"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy blood donor",
+            "Age: unknown",
+            "Sex: unknown",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: NA",
+            "Scr (mg/dL): unknown",
+            "Days post transplant: NA",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26806/suppl/GSM26806.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26806/suppl/GSM26806.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26807": {
+        "title": [
+            "C3PBL"
+        ],
+        "geo_accession": [
+            "GSM26807"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy blood donor",
+            "Age: unknown",
+            "Sex: unknown",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: NA",
+            "Scr (mg/dL): unknown",
+            "Days post transplant: NA",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26807/suppl/GSM26807.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26807/suppl/GSM26807.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26808": {
+        "title": [
+            "C4PBL"
+        ],
+        "geo_accession": [
+            "GSM26808"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy blood donor",
+            "Age: unknown",
+            "Sex: unknown",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: NA",
+            "Scr (mg/dL): unknown",
+            "Days post transplant: NA",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26808/suppl/GSM26808.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26808/suppl/GSM26808.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26809": {
+        "title": [
+            "C5PBL"
+        ],
+        "geo_accession": [
+            "GSM26809"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy blood donor",
+            "Age: unknown",
+            "Sex: unknown",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: NA",
+            "Scr (mg/dL): unknown",
+            "Days post transplant: NA",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26809/suppl/GSM26809.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26809/suppl/GSM26809.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26810": {
+        "title": [
+            "C6PBL"
+        ],
+        "geo_accession": [
+            "GSM26810"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy blood donor",
+            "Age: unknown",
+            "Sex: unknown",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: NA",
+            "Scr (mg/dL): unknown",
+            "Days post transplant: NA",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26810/suppl/GSM26810.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26810/suppl/GSM26810.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26811": {
+        "title": [
+            "C7PBL"
+        ],
+        "geo_accession": [
+            "GSM26811"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy blood donor",
+            "Age: unknown",
+            "Sex: unknown",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: NA",
+            "Scr (mg/dL): unknown",
+            "Days post transplant: NA",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26811/suppl/GSM26811.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26811/suppl/GSM26811.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26812": {
+        "title": [
+            "C8PBL"
+        ],
+        "geo_accession": [
+            "GSM26812"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy blood donor",
+            "Age: unknown",
+            "Sex: unknown",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: NA",
+            "Scr (mg/dL): unknown",
+            "Days post transplant: NA",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26812/suppl/GSM26812.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26812/suppl/GSM26812.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26813": {
+        "title": [
+            "AR2PBL"
+        ],
+        "geo_accession": [
+            "GSM26813"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 28",
+            "Sex: Male",
+            "Immunosupression: FK/MMF/P",
+            "Histopathology: Banff IIA",
+            "Donor type: LD",
+            "Scr (mg/dL): 5.9",
+            "Days post transplant: 1467",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26813/suppl/GSM26813.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26813/suppl/GSM26813.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26814": {
+        "title": [
+            "AR3PBL"
+        ],
+        "geo_accession": [
+            "GSM26814"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 18",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Banff IA",
+            "Donor type: CAD",
+            "Scr (mg/dL): 2.2",
+            "Days post transplant: 119",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26814/suppl/GSM26814.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26814/suppl/GSM26814.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26815": {
+        "title": [
+            "AR4PBL"
+        ],
+        "geo_accession": [
+            "GSM26815"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 28",
+            "Sex: Female",
+            "Immunosupression: FK/MMF/P",
+            "Histopathology: Banff IA",
+            "Donor type: CAD",
+            "Scr (mg/dL): 1.5",
+            "Days post transplant: 366",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26815/suppl/GSM26815.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26815/suppl/GSM26815.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26816": {
+        "title": [
+            "AR5PBL"
+        ],
+        "geo_accession": [
+            "GSM26816"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 26",
+            "Sex: Female",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Banff borderline",
+            "Donor type: CAD",
+            "Scr (mg/dL): 2.0",
+            "Days post transplant: 278",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26816/suppl/GSM26816.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26816/suppl/GSM26816.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26817": {
+        "title": [
+            "AR6PBL"
+        ],
+        "geo_accession": [
+            "GSM26817"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 55",
+            "Sex: Male",
+            "Immunosupression: SRL/MMF/P",
+            "Histopathology: Banff borderline",
+            "Donor type: CAD",
+            "Scr (mg/dL): 2.9",
+            "Days post transplant: 68",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26817/suppl/GSM26817.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26817/suppl/GSM26817.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26818": {
+        "title": [
+            "AR7PBL"
+        ],
+        "geo_accession": [
+            "GSM26818"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 35",
+            "Sex: Male",
+            "Immunosupression: SRL/MMF/P",
+            "Histopathology: Banff IA",
+            "Donor type: CAD",
+            "Scr (mg/dL): 2.0",
+            "Days post transplant: 184",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26818/suppl/GSM26818.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26818/suppl/GSM26818.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26819": {
+        "title": [
+            "TXPBL1"
+        ],
+        "geo_accession": [
+            "GSM26819"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from patient with well-functioning transplant with no clinical evidence of rejection",
+            "Age: 38",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: none",
+            "Donor type: CAD",
+            "Scr (mg/dL): 1.4",
+            "Days post transplant: 461",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26819/suppl/GSM26819.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26819/suppl/GSM26819.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26820": {
+        "title": [
+            "TXPBL2"
+        ],
+        "geo_accession": [
+            "GSM26820"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from patient with well-functioning transplant with no clinical evidence of rejection",
+            "Age: 57",
+            "Sex: Female",
+            "Immunosupression: FK/MMF/P",
+            "Histopathology: none",
+            "Donor type: LD",
+            "Scr (mg/dL): 1.3",
+            "Days post transplant: 42",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26820/suppl/GSM26820.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26820/suppl/GSM26820.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26821": {
+        "title": [
+            "TXPBL3"
+        ],
+        "geo_accession": [
+            "GSM26821"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from patient with well-functioning transplant with no clinical evidence of rejection",
+            "Age: 65",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: none",
+            "Donor type: CAD",
+            "Scr (mg/dL): 1.5",
+            "Days post transplant: 213",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26821/suppl/GSM26821.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26821/suppl/GSM26821.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26822": {
+        "title": [
+            "TXPBL4"
+        ],
+        "geo_accession": [
+            "GSM26822"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from patient with well-functioning transplant with no clinical evidence of rejection",
+            "Age: 65",
+            "Sex: Female",
+            "Immunosupression: FK/MMF/P",
+            "Histopathology: none",
+            "Donor type: CAD",
+            "Scr (mg/dL): 0.8",
+            "Days post transplant: 246",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26822/suppl/GSM26822.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26822/suppl/GSM26822.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26823": {
+        "title": [
+            "TXPBL5"
+        ],
+        "geo_accession": [
+            "GSM26823"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from patient with well-functioning transplant with no clinical evidence of rejection",
+            "Age: 36",
+            "Sex: Female",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: none",
+            "Donor type: CAD",
+            "Scr (mg/dL): 1.1",
+            "Days post transplant: 1278",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26823/suppl/GSM26823.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26823/suppl/GSM26823.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26824": {
+        "title": [
+            "TXPBL6"
+        ],
+        "geo_accession": [
+            "GSM26824"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from patient with well-functioning transplant with no clinical evidence of rejection",
+            "Age: 68",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: none",
+            "Donor type: CAD",
+            "Scr (mg/dL): 1.7",
+            "Days post transplant: 376",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26824/suppl/GSM26824.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26824/suppl/GSM26824.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26825": {
+        "title": [
+            "TXPBL7"
+        ],
+        "geo_accession": [
+            "GSM26825"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from patient with well-functioning transplant with no clinical evidence of rejection",
+            "Age: 39",
+            "Sex: Male",
+            "Immunosupression: SRL/MMF/P",
+            "Histopathology: none",
+            "Donor type: CAD",
+            "Scr (mg/dL): 0.9",
+            "Days post transplant: 36",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26825/suppl/GSM26825.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26825/suppl/GSM26825.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26826": {
+        "title": [
+            "TXPBL8"
+        ],
+        "geo_accession": [
+            "GSM26826"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from patient with well-functioning transplant with no clinical evidence of rejection",
+            "Age: 61",
+            "Sex: Female",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: none",
+            "Donor type: CAD",
+            "Scr (mg/dL): 0.9",
+            "Days post transplant: 1491",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26826/suppl/GSM26826.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26826/suppl/GSM26826.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26827": {
+        "title": [
+            "TXPBL9"
+        ],
+        "geo_accession": [
+            "GSM26827"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from patient with well-functioning transplant with no clinical evidence of rejection",
+            "Age: 46",
+            "Sex: Male",
+            "Immunosupression: SRL/MMF/P",
+            "Histopathology: none",
+            "Donor type: LD",
+            "Scr (mg/dL): 1.2",
+            "Days post transplant: 81",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26827/suppl/GSM26827.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26827/suppl/GSM26827.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26828": {
+        "title": [
+            "NR1PBL"
+        ],
+        "geo_accession": [
+            "GSM26828"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with renal dysfunction without rejection",
+            "Age: 55",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: CNI toxicity",
+            "Donor type: LD",
+            "Scr (mg/dL): 1.7",
+            "Days post transplant: 456",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26828/suppl/GSM26828.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26828/suppl/GSM26828.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26829": {
+        "title": [
+            "NR2PBL"
+        ],
+        "geo_accession": [
+            "GSM26829"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with renal dysfunction without rejection",
+            "Age: 38",
+            "Sex: Male",
+            "Immunosupression: FK/MMF/P",
+            "Histopathology: CNI toxicity",
+            "Donor type: LD",
+            "Scr (mg/dL): 2.3",
+            "Days post transplant: 155",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26829/suppl/GSM26829.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26829/suppl/GSM26829.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26830": {
+        "title": [
+            "NR3PBL"
+        ],
+        "geo_accession": [
+            "GSM26830"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with renal dysfunction without rejection",
+            "Age: 61",
+            "Sex: Male",
+            "Immunosupression: SRL/MMF/P",
+            "Histopathology: ATN",
+            "Donor type: LD",
+            "Scr (mg/dL): 5.2",
+            "Days post transplant: 11",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26830/suppl/GSM26830.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26830/suppl/GSM26830.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26831": {
+        "title": [
+            "NR4PBL"
+        ],
+        "geo_accession": [
+            "GSM26831"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with renal dysfunction without rejection",
+            "Age: 43",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: CNI toxicity",
+            "Donor type: CAD",
+            "Scr (mg/dL): 3.8",
+            "Days post transplant: 262",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26831/suppl/GSM26831.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26831/suppl/GSM26831.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26832": {
+        "title": [
+            "NR5PBL"
+        ],
+        "geo_accession": [
+            "GSM26832"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with renal dysfunction without rejection",
+            "Age: 35",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: ATN",
+            "Donor type: CAD",
+            "Scr (mg/dL): 6.3",
+            "Days post transplant: 16",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26832/suppl/GSM26832.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26832/suppl/GSM26832.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26833": {
+        "title": [
+            "NR7PBL"
+        ],
+        "geo_accession": [
+            "GSM26833"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with renal dysfunction without rejection",
+            "Age: 44",
+            "Sex: Male",
+            "Immunosupression: SRL/MMF/P",
+            "Histopathology: ATN",
+            "Donor type: CAD",
+            "Scr (mg/dL): 6.3",
+            "Days post transplant: 40",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26833/suppl/GSM26833.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26833/suppl/GSM26833.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26834": {
+        "title": [
+            "NR8PBL"
+        ],
+        "geo_accession": [
+            "GSM26834"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with renal dysfunction without rejection",
+            "Age: 22",
+            "Sex: Female",
+            "Immunosupression: FK/MMF/P",
+            "Histopathology: FSGS",
+            "Donor type: LD",
+            "Scr (mg/dL): 3.3",
+            "Days post transplant: 78",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26834/suppl/GSM26834.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26834/suppl/GSM26834.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26835": {
+        "title": [
+            "NR9PBL"
+        ],
+        "geo_accession": [
+            "GSM26835"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "PBL"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: PBL sample from transplant patient with renal dysfunction without rejection",
+            "Age: 58",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: ATN",
+            "Donor type: CAD",
+            "Scr (mg/dL): 5.0",
+            "Days post transplant: 47",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26835/suppl/GSM26835.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26835/suppl/GSM26835.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26836": {
+        "title": [
+            "C1BX"
+        ],
+        "geo_accession": [
+            "GSM26836"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy donor kidney",
+            "Age: 38",
+            "Sex: Female",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: LD",
+            "Scr (mg/dL): 0.8",
+            "Days post transplant: 0",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26836/suppl/GSM26836.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26836/suppl/GSM26836.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26837": {
+        "title": [
+            "C2BX"
+        ],
+        "geo_accession": [
+            "GSM26837"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy donor kidney",
+            "Age: 42",
+            "Sex: Male",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: LD",
+            "Scr (mg/dL): 0.9",
+            "Days post transplant: 0",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26837/suppl/GSM26837.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26837/suppl/GSM26837.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26838": {
+        "title": [
+            "C3BX"
+        ],
+        "geo_accession": [
+            "GSM26838"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy donor kidney",
+            "Age: 35",
+            "Sex: Female",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: LD",
+            "Scr (mg/dL): 0.6",
+            "Days post transplant: 0",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26838/suppl/GSM26838.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26838/suppl/GSM26838.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26839": {
+        "title": [
+            "C4BX"
+        ],
+        "geo_accession": [
+            "GSM26839"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy donor kidney",
+            "Age: 39",
+            "Sex: Female",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: LD",
+            "Scr (mg/dL): 0.9",
+            "Days post transplant: 0",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26839/suppl/GSM26839.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26839/suppl/GSM26839.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26840": {
+        "title": [
+            "C5BX"
+        ],
+        "geo_accession": [
+            "GSM26840"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy donor kidney",
+            "Age: 39",
+            "Sex: Male",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: LD",
+            "Scr (mg/dL): 1.2",
+            "Days post transplant: 0",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26840/suppl/GSM26840.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26840/suppl/GSM26840.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26841": {
+        "title": [
+            "C6BX"
+        ],
+        "geo_accession": [
+            "GSM26841"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy donor kidney",
+            "Age: 44",
+            "Sex: Male",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: LD",
+            "Scr (mg/dL): 0.8",
+            "Days post transplant: 0",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26841/suppl/GSM26841.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26841/suppl/GSM26841.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26842": {
+        "title": [
+            "C7BX"
+        ],
+        "geo_accession": [
+            "GSM26842"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy donor kidney",
+            "Age: 36",
+            "Sex: Male",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: LD",
+            "Scr (mg/dL): 1.2",
+            "Days post transplant: 0",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26842/suppl/GSM26842.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26842/suppl/GSM26842.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26843": {
+        "title": [
+            "C8BX"
+        ],
+        "geo_accession": [
+            "GSM26843"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy donor kidney",
+            "Age: 35",
+            "Sex: Female",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: LD",
+            "Scr (mg/dL): 0.8",
+            "Days post transplant: 0",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26843/suppl/GSM26843.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26843/suppl/GSM26843.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26844": {
+        "title": [
+            "C9BX"
+        ],
+        "geo_accession": [
+            "GSM26844"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: control healthy donor kidney",
+            "Age: 50",
+            "Sex: Female",
+            "Immunosupression: none",
+            "Histopathology: none",
+            "Donor type: LD",
+            "Scr (mg/dL): 0.6",
+            "Days post transplant: 0",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26844/suppl/GSM26844.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26844/suppl/GSM26844.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26845": {
+        "title": [
+            "AR1BX"
+        ],
+        "geo_accession": [
+            "GSM26845"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 42",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Banff IIA",
+            "Donor type: CAD",
+            "Scr (mg/dL): 12.0",
+            "Days post transplant: 285",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26845/suppl/GSM26845.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26845/suppl/GSM26845.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26846": {
+        "title": [
+            "AR2BX"
+        ],
+        "geo_accession": [
+            "GSM26846"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 28",
+            "Sex: Male",
+            "Immunosupression: FK/MMF/P",
+            "Histopathology: Banff IIA",
+            "Donor type: LD",
+            "Scr (mg/dL): 5.9",
+            "Days post transplant: 1467",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26846/suppl/GSM26846.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26846/suppl/GSM26846.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26847": {
+        "title": [
+            "AR3BX"
+        ],
+        "geo_accession": [
+            "GSM26847"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 18",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Banff IA",
+            "Donor type: CAD",
+            "Scr (mg/dL): 2.2",
+            "Days post transplant: 119",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26847/suppl/GSM26847.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26847/suppl/GSM26847.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26848": {
+        "title": [
+            "AR4BX"
+        ],
+        "geo_accession": [
+            "GSM26848"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 28",
+            "Sex: Female",
+            "Immunosupression: FK/MMF/P",
+            "Histopathology: Banff IA",
+            "Donor type: CAD",
+            "Scr (mg/dL): 1.5",
+            "Days post transplant: 366",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26848/suppl/GSM26848.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26848/suppl/GSM26848.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26849": {
+        "title": [
+            "AR5BX"
+        ],
+        "geo_accession": [
+            "GSM26849"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 26",
+            "Sex: Female",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Banff borderline",
+            "Donor type: CAD",
+            "Scr (mg/dL): 2.0",
+            "Days post transplant: 278",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26849/suppl/GSM26849.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26849/suppl/GSM26849.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26850": {
+        "title": [
+            "AR6BX"
+        ],
+        "geo_accession": [
+            "GSM26850"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 55",
+            "Sex: Male",
+            "Immunosupression: SRL/MMF/P",
+            "Histopathology: Banff borderline",
+            "Donor type: CAD",
+            "Scr (mg/dL): 2.9",
+            "Days post transplant: 68",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26850/suppl/GSM26850.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26850/suppl/GSM26850.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26851": {
+        "title": [
+            "AR7BX"
+        ],
+        "geo_accession": [
+            "GSM26851"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant patient with kidney undergoing acute rejection",
+            "Age: 35",
+            "Sex: Male",
+            "Immunosupression: SRL/MMF/P",
+            "Histopathology: Banff IA",
+            "Donor type: CAD",
+            "Scr (mg/dL): 2.0",
+            "Days post transplant: 184",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26851/suppl/GSM26851.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26851/suppl/GSM26851.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26852": {
+        "title": [
+            "TX10BX"
+        ],
+        "geo_accession": [
+            "GSM26852"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from well-functioning transplant with no clinical evidence of rejection",
+            "Age: 21",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Normal",
+            "Donor type: CAD",
+            "Scr (mg/dL): 1.5",
+            "Days post transplant: 674",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26852/suppl/GSM26852.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26852/suppl/GSM26852.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26853": {
+        "title": [
+            "TX1BX"
+        ],
+        "geo_accession": [
+            "GSM26853"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from well-functioning transplant with no clinical evidence of rejection",
+            "Age: 51",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Normal",
+            "Donor type: CAD",
+            "Scr (mg/dL): 1.5",
+            "Days post transplant: 932",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26853/suppl/GSM26853.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26853/suppl/GSM26853.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26854": {
+        "title": [
+            "TX2BX"
+        ],
+        "geo_accession": [
+            "GSM26854"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from well-functioning transplant with no clinical evidence of rejection",
+            "Age: 56",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Normal",
+            "Donor type: LD",
+            "Scr (mg/dL): 1.3",
+            "Days post transplant: 911",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26854/suppl/GSM26854.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26854/suppl/GSM26854.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26855": {
+        "title": [
+            "TX3BX"
+        ],
+        "geo_accession": [
+            "GSM26855"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from well-functioning transplant with no clinical evidence of rejection",
+            "Age: 52",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Normal",
+            "Donor type: CAD",
+            "Scr (mg/dL): 1.2",
+            "Days post transplant: 902",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26855/suppl/GSM26855.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26855/suppl/GSM26855.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26856": {
+        "title": [
+            "TX4BX"
+        ],
+        "geo_accession": [
+            "GSM26856"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from well-functioning transplant with no clinical evidence of rejection",
+            "Age: 31",
+            "Sex: Female",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Normal",
+            "Donor type: LD",
+            "Scr (mg/dL): 1.1",
+            "Days post transplant: 651",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26856/suppl/GSM26856.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26856/suppl/GSM26856.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26857": {
+        "title": [
+            "TX5BX"
+        ],
+        "geo_accession": [
+            "GSM26857"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from well-functioning transplant with no clinical evidence of rejection",
+            "Age: 53",
+            "Sex: Female",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Normal",
+            "Donor type: LD",
+            "Scr (mg/dL): 1.1",
+            "Days post transplant: 689",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26857/suppl/GSM26857.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26857/suppl/GSM26857.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26858": {
+        "title": [
+            "TX6BX"
+        ],
+        "geo_accession": [
+            "GSM26858"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from well-functioning transplant with no clinical evidence of rejection",
+            "Age: 32",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Normal",
+            "Donor type: LD",
+            "Scr (mg/dL): 1.6",
+            "Days post transplant: 776",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26858/suppl/GSM26858.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26858/suppl/GSM26858.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26859": {
+        "title": [
+            "TX7BX"
+        ],
+        "geo_accession": [
+            "GSM26859"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from well-functioning transplant with no clinical evidence of rejection",
+            "Age: 46",
+            "Sex: Female",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Normal",
+            "Donor type: CAD",
+            "Scr (mg/dL): 1.2",
+            "Days post transplant: 713",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26859/suppl/GSM26859.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26859/suppl/GSM26859.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26860": {
+        "title": [
+            "TX8BX"
+        ],
+        "geo_accession": [
+            "GSM26860"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from well-functioning transplant with no clinical evidence of rejection",
+            "Age: 61",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Normal",
+            "Donor type: CAD",
+            "Scr (mg/dL): 0.9",
+            "Days post transplant: 733",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26860/suppl/GSM26860.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26860/suppl/GSM26860.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26861": {
+        "title": [
+            "TX9BX"
+        ],
+        "geo_accession": [
+            "GSM26861"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from well-functioning transplant with no clinical evidence of rejection",
+            "Age: 44",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: Normal",
+            "Donor type: LD",
+            "Scr (mg/dL): 1.8",
+            "Days post transplant: 718",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26861/suppl/GSM26861.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26861/suppl/GSM26861.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26862": {
+        "title": [
+            "NR1BX"
+        ],
+        "geo_accession": [
+            "GSM26862"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant with renal dysfunction without rejection",
+            "Age: 55",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: CNI toxicity",
+            "Donor type: LD",
+            "Scr (mg/dL): 1.7",
+            "Days post transplant: 456",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26862/suppl/GSM26862.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26862/suppl/GSM26862.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26863": {
+        "title": [
+            "NR2BX"
+        ],
+        "geo_accession": [
+            "GSM26863"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant with renal dysfunction without rejection",
+            "Age: 38",
+            "Sex: Male",
+            "Immunosupression: FK/MMF/P",
+            "Histopathology: CNI toxicity",
+            "Donor type: LD",
+            "Scr (mg/dL): 2.3",
+            "Days post transplant: 155",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26863/suppl/GSM26863.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26863/suppl/GSM26863.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26864": {
+        "title": [
+            "NR3BX"
+        ],
+        "geo_accession": [
+            "GSM26864"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant with renal dysfunction without rejection",
+            "Age: 61",
+            "Sex: Male",
+            "Immunosupression: SRL/MMF/P",
+            "Histopathology: ATN",
+            "Donor type: LD",
+            "Scr (mg/dL): 5.2",
+            "Days post transplant: 11",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26864/suppl/GSM26864.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26864/suppl/GSM26864.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26865": {
+        "title": [
+            "NR5BX"
+        ],
+        "geo_accession": [
+            "GSM26865"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant with renal dysfunction without rejection",
+            "Age: 35",
+            "Sex: Male",
+            "Immunosupression: CsA/MMF/P",
+            "Histopathology: ATN",
+            "Donor type: CAD",
+            "Scr (mg/dL): 6.3",
+            "Days post transplant: 16",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26865/suppl/GSM26865.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26865/suppl/GSM26865.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    },
+    "GSM26866": {
+        "title": [
+            "NR8BX"
+        ],
+        "geo_accession": [
+            "GSM26866"
+        ],
+        "status": [
+            "Public on Jul 14 2004"
+        ],
+        "submission_date": [
+            "Jul 14 2004"
+        ],
+        "last_update_date": [
+            "Mar 16 2009"
+        ],
+        "type": [
+            "RNA"
+        ],
+        "channel_count": [
+            "1"
+        ],
+        "source_name_ch1": [
+            "kidney"
+        ],
+        "organism_ch1": [
+            "Homo sapiens"
+        ],
+        "taxid_ch1": [
+            "9606"
+        ],
+        "molecule_ch1": [
+            "total RNA"
+        ],
+        "description": [
+            "Clinical status: sample from transplant with renal dysfunction without rejection",
+            "Age: 22",
+            "Sex: Female",
+            "Immunosupression: FK/MMF/P",
+            "Histopathology: FSGS",
+            "Donor type: LD",
+            "Scr (mg/dL): 3.3",
+            "Days post transplant: 78",
+            "Abbreviations used in sample description: Abreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+            "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant"
+        ],
+        "platform_id": [
+            "GPL8300"
+        ],
+        "contact_name": [
+            "Steven,,Head"
+        ],
+        "contact_email": [
+            "shead@scripps.edu"
+        ],
+        "contact_phone": [
+            "858 784-2263"
+        ],
+        "contact_institute": [
+            "The Scripps Research Institute"
+        ],
+        "contact_address": [
+            "10550 N Torrey Pines Rd"
+        ],
+        "contact_city": [
+            "La Jolla"
+        ],
+        "contact_state": [
+            "CA"
+        ],
+        "contact_zip/postal_code": [
+            "92037"
+        ],
+        "contact_country": [
+            "USA"
+        ],
+        "supplementary_file": [
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26866/suppl/GSM26866.CEL.gz",
+            "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM26nnn/GSM26866/suppl/GSM26866.EXP.gz"
+        ],
+        "series_id": [
+            "GSE1563"
+        ],
+        "data_row_count": [
+            "12625"
+        ]
+    }
+}

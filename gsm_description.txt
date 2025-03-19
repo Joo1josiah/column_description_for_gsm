@@ -1,0 +1,12 @@
+Example Sample record »
+A DataSet represents a curated collection of biologically
+and statistically comparable GEO Samples and forms the basis of GEO's
+suite of data display and analysis tools.
+Samples within a DataSet refer to the same Platform, that is, they share a
+common set of array elements. Value measurements for each Sample within
+a DataSet are assumed to be calculated in an equivalent manner, that is,
+considerations such as background processing and normalization are
+consistent across the DataSet. Information reflecting experimental
+factors is provided through DataSet subsets.
+A Profile consists of the expression measurements for an individual gene across all Samples in a DataSet.
+Profiles can be searched using theGEO Profilesinterface.

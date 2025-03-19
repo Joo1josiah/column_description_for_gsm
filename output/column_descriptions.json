@@ -1,0 +1,8 @@
+```json
+{
+  "ID_REF": "Unique identifier for the gene, typically corresponding to a probe set on the microarray platform (GPL8300).",
+  "VALUE": "The measured expression value of the gene in the sample.  This represents the intensity of the signal detected by the probe set, reflecting the abundance of the corresponding mRNA transcript.",
+  "ABS_CALL": "Absolute call, indicating the detection status of the gene in the sample. 'A' signifies the gene was detected as present (above background noise).",
+  "DETECTION P-VALUE": "P-value associated with the detection call.  A lower p-value indicates higher confidence in the detection of the gene's expression."
+}
+```

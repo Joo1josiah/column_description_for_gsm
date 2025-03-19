@@ -1,0 +1,27 @@
+This dataset comes from the Gene Expression Omnibus (GEO) and includes multiple GSM (GEO Sample) records. Each GSM represents an individual biological sample, containing metadata, experimental conditions, and gene expression values. The dataset also includes GSE (GEO Series) metadata, which provides context for the overall study.
+
+### Provided files:
+1. gse_metadata.json – Metadata about the GSE dataset.  
+2. gsm_metadata.json – Compiled metadata for all GSMs.  
+3. gsm_sample_data.csv – Sampled rows from the GSM data tables.  
+4. prompt.txt – This prompt document.  
+5. gsm_description.txt – General description of GSMs and GSEs.  
+
+### Task:
+Using these files, generate structured column descriptions that:  
+- Clearly explain each column’s meaning  
+- Reflect the biological and experimental significance of the data  
+- Maintain consistency across GSM samples  
+- Provide concise yet informative descriptions  
+
+### Output format:
+The column descriptions should be in JSON format, where each column is mapped to a short but clear explanation.  
+
+Example:  
+{
+  "gene_id": "Unique identifier for each gene in the dataset.",
+  "expression_value": "The measured intensity of gene expression in the sample.",
+  "sample_condition": "The biological or experimental condition associated with the sample."
+}
+
+Make sure the descriptions are accurate, easy to understand, and relevant to the dataset.

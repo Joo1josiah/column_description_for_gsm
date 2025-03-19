@@ -1,0 +1,152 @@
+{
+    "title": [
+        "Kidney Transplant Rejection and Tissue Injury by Gene Profiling of Biopsies and Peripheral Blood Lymphocytes"
+    ],
+    "geo_accession": [
+        "GSE1563"
+    ],
+    "status": [
+        "Public on Jul 14 2004"
+    ],
+    "submission_date": [
+        "Jul 14 2004"
+    ],
+    "last_update_date": [
+        "Dec 13 2018"
+    ],
+    "pubmed_id": [
+        "15307835"
+    ],
+    "summary": [
+        "We used DNA microarrays (HG-U95Av2 GeneChips) to determine gene expression profiles for kidney biopsies and peripheral blood lymphocytes (PBLs) in transplant patients. Sample classes include kidney biopsies and PBLs from patients with 1) healthy normal donor kidneys, 2) well-functioning transplants with no clinical evidence of rejection, 3) kidneys undergoing acute rejection, and 4) transplants with renal dysfunction without rejection. Nomenclature for samples is as follows: 1) all sample names include either BX or PBL to indicate that they were derived from biopsies or PBLs respectively, 2) C indicates samples from healthy normal donors, 3) TX indicates samples from patients with well-functioning transplants with no clinical evidence of rejection, 3) AR indicates samples from transplant patients with kidneys undergoing acute rejection, 4) NR indicates samples from transplant patients with renal dysfunction without rejection.",
+        "Abbreviations used to describe patient samples include the following: BX - Biopsy; PBL- Peripheral Blood Lymphocytes; CsA -Cyclosporine; MMF - Mycophenolate Mofetil; P - Prednisone; FK - Tacrolimus;  SRL - Sirolimus; CAD -Cadaveric;  LD - Live Donor; Scr - Serum Creatinine; ATN - Acute Tubular Necrosis CNI - Calcineurin Inhibitor; FSGS - Focal Segmental Glomerulosclerosis",
+        "several array data sets did not pass quality control and were not analyzed. These include AR1PBL, NR4BX, and NR6PBL",
+        "Keywords = DNA microarrays, gene expression, kidney, rejection, transplant",
+        "Keywords: other"
+    ],
+    "type": [
+        "Expression profiling by array"
+    ],
+    "contributor": [
+        "Stuart,M,Flechner",
+        "Sunil,M,Kurian",
+        "Steven,R,Head",
+        "Starlette,M,Sharp",
+        "Thomas,C,Whisenant",
+        "Jie,,Zhang",
+        "Jeffrey,D,Chismar",
+        "Steve,,Horvath",
+        "Tony,,Mondala",
+        "Timothy,,Gilmartin",
+        "Daniel,J,Cook",
+        "Steven,A,Kay",
+        "John,R,Walker",
+        "Daniel,R,Salomon"
+    ],
+    "sample_id": [
+        "GSM26805",
+        "GSM26806",
+        "GSM26807",
+        "GSM26808",
+        "GSM26809",
+        "GSM26810",
+        "GSM26811",
+        "GSM26812",
+        "GSM26813",
+        "GSM26814",
+        "GSM26815",
+        "GSM26816",
+        "GSM26817",
+        "GSM26818",
+        "GSM26819",
+        "GSM26820",
+        "GSM26821",
+        "GSM26822",
+        "GSM26823",
+        "GSM26824",
+        "GSM26825",
+        "GSM26826",
+        "GSM26827",
+        "GSM26828",
+        "GSM26829",
+        "GSM26830",
+        "GSM26831",
+        "GSM26832",
+        "GSM26833",
+        "GSM26834",
+        "GSM26835",
+        "GSM26836",
+        "GSM26837",
+        "GSM26838",
+        "GSM26839",
+        "GSM26840",
+        "GSM26841",
+        "GSM26842",
+        "GSM26843",
+        "GSM26844",
+        "GSM26845",
+        "GSM26846",
+        "GSM26847",
+        "GSM26848",
+        "GSM26849",
+        "GSM26850",
+        "GSM26851",
+        "GSM26852",
+        "GSM26853",
+        "GSM26854",
+        "GSM26855",
+        "GSM26856",
+        "GSM26857",
+        "GSM26858",
+        "GSM26859",
+        "GSM26860",
+        "GSM26861",
+        "GSM26862",
+        "GSM26863",
+        "GSM26864",
+        "GSM26865",
+        "GSM26866"
+    ],
+    "contact_name": [
+        "Steven,,Head"
+    ],
+    "contact_email": [
+        "shead@scripps.edu"
+    ],
+    "contact_phone": [
+        "858 784-2263"
+    ],
+    "contact_institute": [
+        "The Scripps Research Institute"
+    ],
+    "contact_address": [
+        "10550 N Torrey Pines Rd"
+    ],
+    "contact_city": [
+        "La Jolla"
+    ],
+    "contact_state": [
+        "CA"
+    ],
+    "contact_zip/postal_code": [
+        "92037"
+    ],
+    "contact_country": [
+        "USA"
+    ],
+    "supplementary_file": [
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE1nnn/GSE1563/suppl/GSE1563_RAW.tar"
+    ],
+    "platform_id": [
+        "GPL8300"
+    ],
+    "platform_taxid": [
+        "9606"
+    ],
+    "sample_taxid": [
+        "9606"
+    ],
+    "relation": [
+        "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA90879"
+    ]
+}
