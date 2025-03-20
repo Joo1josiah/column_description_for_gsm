@@ -1,8 +1,8 @@
 ```json
 {
-  "ID_REF": "Unique identifier for the gene, typically corresponding to a probe set on the microarray platform (GPL8300).",
-  "VALUE": "The measured expression value of the gene in the sample.  This represents the intensity of the signal detected by the probe set, reflecting the abundance of the corresponding mRNA transcript.",
-  "ABS_CALL": "Absolute call, indicating the detection status of the gene in the sample. 'A' signifies the gene was detected as present (above background noise).",
-  "DETECTION P-VALUE": "P-value associated with the detection call.  A lower p-value indicates higher confidence in the detection of the gene's expression."
+  "ID_REF": "Unique identifier for the gene, corresponding to a probe on the Affymetrix HG-U95Av2 GeneChip.",
+  "VALUE": "Gene expression value, representing the measured intensity of the probe.  This likely reflects a normalized measure of mRNA abundance.",
+  "ABS_CALL": "Absolute call, indicating the detection status of the gene in the sample. (A=Absent, P=Present, M=Marginal).",
+  "DETECTION P-VALUE": "P-value associated with the detection call, representing the statistical significance of the gene's presence in the sample.  Lower p-values suggest greater confidence in the detection call."
 }
 ```
